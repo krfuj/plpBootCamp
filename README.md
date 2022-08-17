@@ -14,6 +14,6 @@ it displays a home page,about section and an ability to download the resume show
 
 ## Screenshots
 
-![App Screenshot](asset\home.png)
+![App Screenshot](/asset/home.png)
 
-![App Screenshot](asset\contact.png)
+![App Screenshot](/asset/contact.png)
